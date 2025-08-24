@@ -1,0 +1,9 @@
+{
+  "appId": "com.yourorg.plantapp",
+  "appName": "Plant Distribution",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
